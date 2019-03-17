@@ -14,7 +14,7 @@
 
 ![Manager Menu](images/Manager1.PNG)
 
-#Allows to look at all products:
+#Allows you to look at all products:
 
 ![Manager View Inventory](images/Manager2.PNG)
 
@@ -33,6 +33,3 @@
 ![Manager Add New Item](images/Manager6.PNG)
 
 ![Manager Add New Item](images/Manager7.PNG)
-
-![Manager Add New Item](images/Manager8.PNG)
-
