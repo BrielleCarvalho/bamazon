@@ -2,7 +2,7 @@
 
 #This web application tracks a table of products, their department name, stock quantity, and price. I've created the table in a database using MySQL Workbench. 
 
-#The customer view allows you to "purchase" a product and changes the amount in stock. 
+#The customer view allows you to "purchase" a product, changes the amount in stock, and provides total cost. 
 
 ![Customer Purchase](images/Customer1.PNG)
 
